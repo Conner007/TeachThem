@@ -1,6 +1,7 @@
 button {
     background-color: black;
-    
+    width: 100px;
+    margin-left: 19px;
 }
 
 a {
