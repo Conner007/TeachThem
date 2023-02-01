@@ -1,6 +1,12 @@
+body {
+    background-color: black;
+}
+
 button {
     background-color: black;
     width: 100px;
+    height: 30px;
+    font-size: 15px;
     margin-left: 19px;
 }
 
